@@ -1,13 +1,13 @@
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm Aman kumar singhania</h1>
-<h3 align="center">*Aspiring software developer passionate about web development, AI, and building real-world tech solutions.*</h3>
+<h3 align="center">Aspiring software developer passionate about web development, AI, and building real-world tech solutions.</h3>
 
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning *MERN Stack, API Design & Deployment*
+- 🌱 I’m currently learning *MERN Stack, API Design & Deployment**
 
-- 💬 Ask me about *React, Node.js, MongoDB, UI/UX*
+- 💬 Ask me about Web Development, Full-Stack Projects, UI/UX, and Emerging AI Technologies*
 
 - 🌐 Portfolio **https://amanwebfolio.netlify.app/**
 
