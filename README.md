@@ -25,6 +25,13 @@
 ![](https://streak-stats.demolab.com/?user=Aman25427&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman25427&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
