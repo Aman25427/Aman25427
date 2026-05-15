@@ -1,6 +1,19 @@
-# 💫 About Me:
-🌱 I’m currently learning MERN Stack, API Design & Deployment<br><br>💬 Ask me about React, Node.js, MongoDB, UI/UX<br><br>🌐 Portfolio https://amanwebfolio.netlify.app//<br><br>📫 How to reach me amansinghania07@gmail.com<br><br>⚡ Fun fact I break things just to rebuild them cleaner.
+<!-- Your Info. -->
+<h1 align="center">Hi 👋, I'm Aman kumar singhania</h1>
+<h3 align="center">*Aspiring software developer passionate about web development, AI, and building real-world tech solutions.*</h3>
 
+<!-- Programmer GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning *MERN Stack, API Design & Deployment*
+
+- 💬 Ask me about *React, Node.js, MongoDB, UI/UX*
+
+- 🌐 Portfolio **https://amanwebfolio.netlify.app/**
+
+- 📫 How to reach me **amansinghania07@gmail.com*
+
+- ⚡ Fun fact I break things just to *rebuild them cleaner.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_kumar_singhania) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-singhania-449b44271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansinghania07@gmail.com) 
