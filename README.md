@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack, API Design & Deployment<br><br>💬 Ask me about React, Node.js, MongoDB, UI/UX<br><br>🌐 Portfolio https://aryanwebfolio.netlify.app/<br><br>📫 How to reach me aryankumar70912@gmail.com<br><br>⚡ Fun fact I break things just to rebuild them cleaner.
+🌱 I’m currently learning MERN Stack, API Design & Deployment<br><br>💬 Ask me about React, Node.js, MongoDB, UI/UX<br><br>🌐 Portfolio https://amanwebfolio.netlify.app//<br><br>📫 How to reach me amansinghania07@gmail.com<br><br>⚡ Fun fact I break things just to rebuild them cleaner.
 
 
 ## 🌐 Socials:
